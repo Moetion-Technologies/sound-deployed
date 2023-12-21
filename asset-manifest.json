@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.e55b72f0.css",
-    "main.js": "/react-gh-pages/static/js/main.04ce7220.js",
-    "static/js/787.d5fa4d18.chunk.js": "/react-gh-pages/static/js/787.d5fa4d18.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.e55b72f0.css.map": "/react-gh-pages/static/css/main.e55b72f0.css.map",
-    "main.04ce7220.js.map": "/react-gh-pages/static/js/main.04ce7220.js.map",
-    "787.d5fa4d18.chunk.js.map": "/react-gh-pages/static/js/787.d5fa4d18.chunk.js.map"
+    "main.css": "/sound-deployed/static/css/main.e55b72f0.css",
+    "main.js": "/sound-deployed/static/js/main.b80030d7.js",
+    "static/js/787.d5fa4d18.chunk.js": "/sound-deployed/static/js/787.d5fa4d18.chunk.js",
+    "index.html": "/sound-deployed/index.html",
+    "main.e55b72f0.css.map": "/sound-deployed/static/css/main.e55b72f0.css.map",
+    "main.b80030d7.js.map": "/sound-deployed/static/js/main.b80030d7.js.map",
+    "787.d5fa4d18.chunk.js.map": "/sound-deployed/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e55b72f0.css",
-    "static/js/main.04ce7220.js"
+    "static/js/main.b80030d7.js"
   ]
 }
