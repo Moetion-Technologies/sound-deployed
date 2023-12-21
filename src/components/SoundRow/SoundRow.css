@@ -1,0 +1,11 @@
+
+.soundRow {
+    display: flex;
+    flex-direction: row;
+    padding-left: 30px;
+}
+
+.nFColumn {
+    display: flex;
+    flex-direction: column;
+}

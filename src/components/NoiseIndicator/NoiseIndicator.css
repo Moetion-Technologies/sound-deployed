@@ -1,0 +1,20 @@
+
+.circleIndicator {
+  width: 100px;
+  height: 100px;
+  border: 2px solid black;
+  border-radius: 50%;
+
+  
+}
+
+.circleDiv {
+  padding-top: 60px;
+  display: Flex;
+  flex-direction: row;
+  height: 100px;
+}
+
+.cat-icon {
+  font-size: 100px;
+}

@@ -1,0 +1,20 @@
+.file-div {
+
+    background-color: #288FDE;
+    width: 100px;
+
+    border: solid;
+    text-align: center;
+    border-radius: 20px;
+    padding-right: 2px;
+    margin-left: 30px;
+}
+
+/* .uploadLabel {
+    padding-left: 10px;
+} */
+
+.file-input {
+    display: none;
+}
+
